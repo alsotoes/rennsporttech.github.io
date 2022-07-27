@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://alsotoes.github.io/rennsporttech.github.io/sitemap.xsl"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://alsotoes.github.io/rennsporttech.github.io/</loc>
 </url>
 <url>
+<loc>https://alsotoes.github.io/rennsporttech.github.io/contactanos/</loc>
+<lastmod>2022-07-27T02:27:02-05:00</lastmod>
+</url>
+<url>
+<loc>https://alsotoes.github.io/rennsporttech.github.io/donde-estamos/</loc>
+<lastmod>2022-07-27T02:27:24-05:00</lastmod>
+</url>
+<url>
 <loc>https://alsotoes.github.io/rennsporttech.github.io/home/</loc>
-<lastmod>2022-07-26T16:01:04-05:00</lastmod>
-</url>
-<url>
-<loc>https://alsotoes.github.io/rennsporttech.github.io/instagram-feed/</loc>
-<lastmod>2022-07-27T01:49:11-05:00</lastmod>
-</url>
-<url>
-<loc>https://alsotoes.github.io/rennsporttech.github.io/instagram-feed-2/</loc>
-<lastmod>2022-07-26T17:59:08-05:00</lastmod>
+<lastmod>2022-07-27T02:27:32-05:00</lastmod>
 </url>
 <url>
 <loc>https://alsotoes.github.io/rennsporttech.github.io/quienes-somos/</loc>
