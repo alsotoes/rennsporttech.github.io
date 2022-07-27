@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+    <title>rennsport.tech</title>
+    <link href="https://alsotoes.github.io/rennsporttech.github.io/feed.xml" rel="self" />
+    <link href="https://alsotoes.github.io/rennsporttech.github.io" />
+    <updated>2022-07-27T01:49:11-05:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://alsotoes.github.io/rennsporttech.github.io</id>
+
+    <entry>
+        <title>¿Quienes somos?</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://alsotoes.github.io/rennsporttech.github.io/quienes-somos/"/>
+        <id>https://alsotoes.github.io/rennsporttech.github.io/quienes-somos/</id>
+
+        <updated>2022-07-27T01:48:55-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contáctanos</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://alsotoes.github.io/rennsporttech.github.io/instagram-feed-2/"/>
+        <id>https://alsotoes.github.io/rennsporttech.github.io/instagram-feed-2/</id>
+
+        <updated>2022-07-26T17:59:08-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script src="https://apps.elfsight.com/p/platform.js" defer="defer"></script>
+</p>
+<div class="elfsight-app-e043e39b-eeaa-48dd-974f-30b993f639fb"> </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>¿Donde estamos?</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://alsotoes.github.io/rennsporttech.github.io/instagram-feed/"/>
+        <id>https://alsotoes.github.io/rennsporttech.github.io/instagram-feed/</id>
+
+        <updated>2022-07-27T01:49:11-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.0614080813934!2d-99.19075374883049!3d19.366493547743822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff89f2bc9e5b%3A0x2f0bd4c502b3736c!2sAv.%20Revoluci%C3%B3n%201108%2C%20San%20Jos%C3%A9%20Insurgentes%2C%20Benito%20Ju%C3%A1rez%2C%2003900%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1sen!2smx!4v1658875531133!5m2!1sen!2smx" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://alsotoes.github.io/rennsporttech.github.io/home/"/>
+        <id>https://alsotoes.github.io/rennsporttech.github.io/home/</id>
+
+        <updated>2022-07-26T16:01:04-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script src="https://apps.elfsight.com/p/platform.js" defer="defer"></script>
+</p>
+<div class="elfsight-app-bf56b648-d056-4b19-92a7-3d2c99466291"> </div>
+            ]]>
+        </content>
+    </entry>
+</feed>

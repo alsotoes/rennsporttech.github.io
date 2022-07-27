@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alsotoes.github.io/rennsporttech.github.io/sitemap.xml
