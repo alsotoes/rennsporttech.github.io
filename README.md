@@ -1,1 +1,1 @@
-Same as rennsport.tech
+Same as https://rennsport.tech
