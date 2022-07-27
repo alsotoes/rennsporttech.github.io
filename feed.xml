@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
     <title>rennsport.tech</title>
     <link href="https://alsotoes.github.io/rennsporttech.github.io/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/rennsporttech.github.io" />
