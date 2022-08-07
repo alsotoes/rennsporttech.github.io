@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom">
     <title>rennsport.tech</title>
     <link href="https://alsotoes.github.io/rennsporttech.github.io/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/rennsporttech.github.io" />
-    <updated>2022-07-27T02:27:32-05:00</updated>
+    <updated>2022-08-04T16:58:36-05:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -64,7 +64,7 @@
         <link href="https://alsotoes.github.io/rennsporttech.github.io/home/"/>
         <id>https://alsotoes.github.io/rennsporttech.github.io/home/</id>
 
-        <updated>2022-07-27T02:27:32-05:00</updated>
+        <updated>2022-08-04T16:58:36-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
